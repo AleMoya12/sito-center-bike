@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "img": "img/lente1.jpg",
+    "nombre": "Stady",
+    "orientacion": "Masculino",
+    "tipo": "Descanso",
+    "precio": 5149,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "img": "img/lente3.jpg",
+    "nombre": "Stady",
+    "orientacion": "Masculino",
+    "tipo": "Descanso",
+    "precio": 5184,
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "img": "img/lente4.jpg",
+    "nombre": "Stady",
+    "orientacion": "Masculino",
+    "tipo": "Descanso",
+    "precio": 5174,
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "img": "img/lente6.jpg",
+    "nombre": "Stady",
+    "orientacion": "Masculino",
+    "tipo": "Descanso",
+    "precio": 5514,
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "img": "img/lente7.jpg",
+    "nombre": "Stady",
+    "orientacion": "Masculino",
+    "tipo": "Descanso",
+    "precio": 5144,
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "img": "img/lente8.jpg",
+    "nombre": "Stady",
+    "orientacion": "Masculino",
+    "tipo": "Descanso",
+    "precio": 5149,
+    "stock": 10
+  },
+  {
+    "id": 7,
+    "img": "img/lente1.jpg",
+    "nombre": "Stady",
+    "orientacion": "Masculino",
+    "tipo": "Descanso",
+    "precio": 5214,
+    "stock": 10
+  },
+  {
+    "id": 8,
+    "img": "img/lente3.jpg",
+    "nombre": "Stady",
+    "orientacion": "Masculino",
+    "tipo": "Descanso",
+    "precio": 5134,
+    "stock": 10
+  },
+  {
+    "id": 9,
+    "img": "img/lente4.jpg",
+    "nombre": "Stady",
+    "orientacion": "Masculino",
+    "tipo": "Descanso",
+    "precio": 5154,
+    "stock": 10
+  },
+  {
+    "id": 10,
+    "img": "img/lente6.jpg",
+    "nombre": "Stady",
+    "orientacion": "Masculino",
+    "tipo": "Descanso",
+    "precio": 5140,
+    "stock": 10
+  }
+]
